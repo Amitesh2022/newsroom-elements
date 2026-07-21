@@ -1,0 +1,6 @@
+com/amitesh/portfolio/newsroomelements/PortfolioApplication.class
+com/amitesh/portfolio/newsroomelements/service/PortfolioService.class
+com/amitesh/portfolio/newsroomelements/api/ApiExceptionHandler.class
+com/amitesh/portfolio/newsroomelements/api/CreateRecordRequest.class
+com/amitesh/portfolio/newsroomelements/domain/PortfolioRecord.class
+com/amitesh/portfolio/newsroomelements/api/PortfolioController.class
